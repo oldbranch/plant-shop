@@ -1,0 +1,10 @@
+# Eclipse / 编译产物
+mengxin/build/
+mengxin/.settings/
+mengxin/.classpath
+mengxin/.project
+*.class
+
+# 系统文件
+.DS_Store
+Thumbs.db
